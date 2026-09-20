@@ -1,0 +1,2 @@
+add_library(basic_calculator STATIC basic_calculator.cpp)
+target_link_libraries(basic_calculator PUBLIC leetcode_stdafx)

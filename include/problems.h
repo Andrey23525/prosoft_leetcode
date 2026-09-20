@@ -8,4 +8,5 @@ namespace LeetCode {
     int search(const std::vector<int>& nums, int target);
     std::vector<int> twoSum(const std::vector<int>& nums, int target);
     int maxPointsOnLine(const std::vector<std::vector<int>>& points);
+    int calculate(std::string s);
 } // namespace LeetCode

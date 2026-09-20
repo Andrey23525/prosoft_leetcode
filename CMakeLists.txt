@@ -21,3 +21,6 @@ add_subdirectory(tests/add_two_numbers)
 
 add_subdirectory(src/max_points_on_a_line)
 add_subdirectory(tests/max_points_on_a_line)
+
+add_subdirectory(src/basic_calculator)
+add_subdirectory(tests/basic_calculator)
