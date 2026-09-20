@@ -1,7 +1,5 @@
-#include "binary_search.h"
+#include "problems.h"
 #include <gtest/gtest.h>
-
-#include <vector>
 
 TEST(BinarySearch, FirstExample)
 {

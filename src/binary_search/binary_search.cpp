@@ -1,4 +1,4 @@
-#include "binary_search.h"
+#include "problems.h"
 
 int LeetCode::search(const std::vector<int>& nums, int target)
 {

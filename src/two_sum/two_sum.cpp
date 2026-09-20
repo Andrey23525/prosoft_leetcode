@@ -1,4 +1,4 @@
-#include "two_sum.h"
+#include "problems.h"
 
 std::vector<int> LeetCode::twoSum(const std::vector<int>& nums, int target)
 {

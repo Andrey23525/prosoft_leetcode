@@ -1,11 +1,7 @@
 #pragma once
 
 #include "list_node.h"
-
-#include <initializer_list>
-#include <memory>
-#include <span>
-#include <vector>
+#include "shared/stdafx.h"
 
 namespace LeetCode {
     class OwnedList {

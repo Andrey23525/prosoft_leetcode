@@ -1,4 +1,4 @@
-#include "two_sum.h"
+#include "problems.h"
 #include <gtest/gtest.h>
 
 TEST(TwoSum, FirstExample)

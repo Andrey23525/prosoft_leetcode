@@ -1,0 +1,2 @@
+add_library(max_points_on_a_line STATIC max_points_on_a_line.cpp)
+target_link_libraries(max_points_on_a_line PUBLIC leetcode_stdafx)

@@ -1,14 +1,7 @@
-#include "add_two_numbers.h"
+#include "problems.h"
 #include "owned_list.h"
 
 #include <gtest/gtest.h>
-
-#include <algorithm>
-#include <format>
-#include <memory>
-#include <ranges>
-#include <span>
-#include <vector>
 
 namespace LeetCode {
     static bool AreEqual(const ListNode* lhs, const ListNode* rhs)
