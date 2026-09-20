@@ -2,9 +2,9 @@
 Каждая задача лежит в своей папке в "src" и собирается в отдельную статическую библиотеку, тесты в "tests". Сигнатуры задач описаны в заголовке "include/problems.h". Общие зависимости вынесены в "include/shared/stdafx.h" и подключаются как precompiled header через cmake.
 Собрать и прогнать тесты:
 
-cmake -S . -B build
-cmake --build build
-ctest --test-dir build
+cmake -S . -B build <br/>
+cmake --build build <br/>
+ctest --test-dir build <br/>
 
 ## Two Sum
 
